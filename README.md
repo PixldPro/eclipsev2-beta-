@@ -54,7 +54,7 @@ Right-click the project `.exe` and select **Run as Administrator**. This ensures
 Navigate to the file you wish to utilize. 
 * Hold **Shift** + **Right-Click** on the file.
 * Select **"Copy as path"**.
-* *Visual Check:* Your clipboard now contains something like `"C:\Users\Name\Desktop\target.file"`.
+* *Visual Check:* Your clipboard now contains something like `"C:\Users\Name\Desktop\target.dll"`.
 
 ### Step 3: Application Configuration
 1. Go to the application window.
