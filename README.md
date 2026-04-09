@@ -33,7 +33,7 @@ Welcome to the official repository for the **PixldPro Project**. This tool is de
 | Tool | Requirement | Download Link |
 | :--- | :--- | :--- |
 | **WinRAR** | Mandatory | [Official Download](https://www.win-rar.com/download.html?&L=0) |
-| **Notepad** | System Default | Pre-installed on Windows |
+| **Minecraft** | With GamePass | Can get From Microsoft Store For £8 |
 
 ### 📂 2. Extraction Guide
 1. Download the compressed project file.
