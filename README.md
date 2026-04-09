@@ -21,12 +21,12 @@ To ensure the application runs correctly and no files are lost:
 1. **Launch the App** Right-click the `.exe` file and select **Run as Administrator**.
 
 2. **Capture the File Path** Locate your target file, **Right-Click** it, and select **"Copy as path"**.
-   > 💡 *Example: `"C:/Users/Desktop/my-project.file"`*
+   > 💡 *Example: `"C:/Users/Desktop/my-project.dll"`*
 
 3. **Configure the Path** * Delete the default text in the path box.
    * Paste your path and **remove the double quotes (")** from the ends.
 
-4. **Execution** * Open **Notepad**.
+4. **Execution** * Open **Minecraft**.
    * Press **Run** in the application.
    * *Note: If it fails, check that security software isn't blocking the process.*
 
