@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Overview
-Welcome to the official repository for the **PixldPro Project**. This tool is designed for efficiency and ease of use. Follow the guide below to ensure a smooth setup.
+Welcome to the official repository for the **EclipseV2**. This tool is designed for efficiency and ease of use. Follow the guide below to ensure a smooth setup.
 
 ### ⚡ Quick Features
 * 💎 **Optimized Performance:** Minimal system impact.
