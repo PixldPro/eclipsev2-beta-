@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=PixldPro%20Project&fontSize=70&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=EclipseV2&fontSize=70&animation=fadeIn" width="100%" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F70000&center=true&vCenter=true&width=500&lines=High-Performance+Tool;Easy+to+Use+Interface;Regular+Updates;Subscribe+to+PixldPro" alt="Typing SVG" />
 
